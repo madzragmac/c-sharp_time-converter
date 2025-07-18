@@ -1,0 +1,16 @@
+C:\Users\mmragmac\source\repos\time-converter\bin\Release\net8.0-windows\time-converter.exe
+C:\Users\mmragmac\source\repos\time-converter\bin\Release\net8.0-windows\time-converter.deps.json
+C:\Users\mmragmac\source\repos\time-converter\bin\Release\net8.0-windows\time-converter.runtimeconfig.json
+C:\Users\mmragmac\source\repos\time-converter\bin\Release\net8.0-windows\time-converter.dll
+C:\Users\mmragmac\source\repos\time-converter\bin\Release\net8.0-windows\time-converter.pdb
+C:\Users\mmragmac\source\repos\time-converter\obj\Release\net8.0-windows\time_converter.Form1.resources
+C:\Users\mmragmac\source\repos\time-converter\obj\Release\net8.0-windows\time-converter.csproj.GenerateResource.cache
+C:\Users\mmragmac\source\repos\time-converter\obj\Release\net8.0-windows\time-converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmragmac\source\repos\time-converter\obj\Release\net8.0-windows\time-converter.AssemblyInfoInputs.cache
+C:\Users\mmragmac\source\repos\time-converter\obj\Release\net8.0-windows\time-converter.AssemblyInfo.cs
+C:\Users\mmragmac\source\repos\time-converter\obj\Release\net8.0-windows\time-converter.csproj.CoreCompileInputs.cache
+C:\Users\mmragmac\source\repos\time-converter\obj\Release\net8.0-windows\time-converter.dll
+C:\Users\mmragmac\source\repos\time-converter\obj\Release\net8.0-windows\refint\time-converter.dll
+C:\Users\mmragmac\source\repos\time-converter\obj\Release\net8.0-windows\time-converter.pdb
+C:\Users\mmragmac\source\repos\time-converter\obj\Release\net8.0-windows\time-converter.genruntimeconfig.cache
+C:\Users\mmragmac\source\repos\time-converter\obj\Release\net8.0-windows\ref\time-converter.dll
